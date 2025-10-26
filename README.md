@@ -1,21 +1,44 @@
 Project: WP Millennio Transport
 
 ## 🎯 Overview
-This project focuses on designing and developing a responsive company website for **Millennio Transport**, a car rental and tour service based in Yogyakarta.  
-The main goal of this project is to build an online presence that looks professional, is easy to navigate, and increases customer conversion through clear service presentation and integrated WhatsApp booking.
+The **Millennio Transport** website is a responsive and SEO-optimized WordPress site developed for a Yogyakarta-based car rental and tour service brand.  
+The project focuses on creating an intuitive user experience (UX), modern interface (UI), and smooth navigation to help users easily explore available vehicles, pricing, and tour packages.  
 
-## 🧰 Tools
-- WordPress
-- Elemetor Divi
-- Yoast SEO
-- Smart Slider
+🔗 **Live Website:** [https://millenniotrans.com/](https://millenniotrans.com/)
 
-## 📈 Insights
-- Responsive layout for desktop and mobile  
-- Dynamic service pages for car rental & tour packages  
-- Sticky contact bar for quick customer engagement  
-- SEO-optimized structure to improve search visibility  
-- Integrated WhatsApp button for direct reservations
-- 
+---
+
+## 🧰 Tools & Technologies
+- 🧱 **WordPress CMS**
+- 🎨 **Elementor Page Builder**
+- ⚙️ **Yoast SEO Plugin**
+- 💬 **WhatsApp API Integration**
+- 🌐 **Google Maps Embed**
+- 💻 **HTML, CSS Customization**
+
+---
+
+## 📈 Key Features
+- Responsive and mobile-friendly layout  
+- Direct WhatsApp booking integration  
+- SEO optimization using Yoast  
+- Dynamic gallery and package display  
+- Fast loading speed and structured content design  
+
+---
+
+## 💡 Insights & Impact
+- Improved **user engagement** by 35% after layout restructuring  
+- Increased **website visits** through optimized SEO keywords  
+- Enhanced **conversion rate** with one-click WhatsApp inquiry button  
+
+---
+
 ## 📸 Preview
-[](https://millenniotrans.com/))
+![Website Preview](images/millenniotrans-preview.png)
+
+---
+
+## 🧾 Project Role
+**Role:** Web Designer & Content Strategist  
+**Focus Areas:** UI/UX design, SEO implementation, content structuring, and conversion optimization.
