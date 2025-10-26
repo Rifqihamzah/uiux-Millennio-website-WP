@@ -35,7 +35,7 @@ The project focuses on creating an intuitive user experience (UX), modern interf
 ---
 
 ## 📸 Preview
-![Website Preview](images/millenniotrans-preview.png)
+![Website Preview](millenniotrans-preview.png.png)
 
 ---
 
